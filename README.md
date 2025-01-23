@@ -1,6 +1,6 @@
 Remaining Useful Life (RUL) Prediction of Turbofan Engines Using Explainable AI
 
-Authors: Abhay Raj Yadav Mohd Adnan Hasan
+Authors: Abhay Raj Yadav, Mohd Adnan Hasan, Rahul Reddy
 
 Introduction: This project focuses on predicting the Remaining Useful Life (RUL) of turbofan engines using the NASA C-MAPSS dataset. By leveraging Random Forest regression and integrating advanced explainability techniques like LIME (Local Interpretable Model-Agnostic Explanations) and SHAP (Shapley Additive Explanations), this framework combines predictive accuracy with interpretability. The proposed approach ensures that maintenance decisions are transparent, reliable, and actionable, making it particularly relevant for high-risk industries like aerospace.
 
